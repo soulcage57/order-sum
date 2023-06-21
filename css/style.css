@@ -19,7 +19,6 @@ body{
 main{
     width: 420px;
     height: 650px;
-    border: 2px solid red;
     overflow: hidden;
     border-radius: 15px;
 }
